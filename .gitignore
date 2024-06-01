@@ -1,0 +1,5 @@
+organika/node_modules
+server/venv
+
+**/node_modules
+**/venv

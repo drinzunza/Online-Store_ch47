@@ -1,0 +1,9 @@
+.navbar {
+    border: 1px solid darkmagenta;
+    background-color: #857594;
+}
+
+.navbar h1 {
+    color: white;
+    text-align: center;
+}
