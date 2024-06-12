@@ -73,11 +73,3 @@ function Catalog() {
 }
 
 export default Catalog;
-
-
-
-/**
- * About Page
- * create a About page component
- * render it on app.js below Catalog
- */
